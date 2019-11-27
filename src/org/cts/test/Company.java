@@ -9,7 +9,8 @@ public class Company  {
 		Company c =new Company();
 		c.compid();
 SingletonClass.add();
-SingletonClass.empid();	
+SingletonClass.empid();
+System.out.println("2345667");
 	}
 
 }
