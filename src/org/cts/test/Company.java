@@ -10,6 +10,7 @@ public class Company  {
 		c.compid();
 SingletonClass.add();
 SingletonClass.empid();	
+Thread.sleep(10000);
 	}
 
 }
